@@ -73,6 +73,9 @@
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
@@ -169,8 +172,9 @@ Python           Django           Flask
 Full Stack Dev   ReactJS          MongoDB
 Machine Learning Deep Learning    RAG Pipelines
 LangChain        LangGraph        AWS Cloud
-Docker           Kubernetes       Jenkins
-Linux            DevOps           Shell Scripting
+MongoDB          MySQL            PostgreSQL
+Redis Cache      Docker           Kubernetes
+Jenkins          Linux            Shell Scripting
 ```
 
 ---
