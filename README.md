@@ -4,6 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=IndupuriMohan&style=for-the-badge&color=blueviolet" />
 </p>
 
+<!-- PROFILE VIEWS -->
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=IndupuriMohan&style=for-the-badge&color=blueviolet" />
+</p>
 <!-- HEADER -->
 
 <div align="center">
