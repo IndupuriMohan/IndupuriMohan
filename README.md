@@ -17,7 +17,7 @@
 <!-- SECTION B: ABOUT ME -->
 ## 🧑‍💻 About Me
 
-I'm **Indupuri Mohan Vamsi** — a passionate **Fresher Developer** from Hyderabad 🇮🇳, eager to build scalable, cloud-native systems and contribute to impactful projects. I love writing clean Python, deploying on AWS, and automating everything with DevOps tools.
+I'm **Indupuri Mohan Vamsi** — a passionate **Full Stack Developer** from Hyderabad 🇮🇳, eager to build scalable, cloud-native systems and contribute to impactful projects. I love writing clean Python, deploying on AWS, and automating everything with DevOps tools.
 
 > *"The best way to learn is to build. The best way to build is to ship."*
 
