@@ -8,9 +8,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:4f46e5,100:7c3aed&text=Indupuri%20Mohan%20Vamsi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Python%20Developer%20|%20AI%20%26%20ML%20Engineer%20|%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:4f46e5,100:7c3aed&text=Indupuri%20Mohan%20Vamsi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Python%20Developer%20|%20Cloud%20&%20DevOps%20Enthusiast&descAlignY=58" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+I'm+Mohan+Vamsi;Full+Stack+Developer;Python+%26+AI+Engineer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Always+Learning+Something+New+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+I'm+Mohan+Vamsi;Full+Stack+Developer;Python+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,30 +20,32 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🚀 Passionate **Full Stack Developer** focused on building modern web applications, AI-powered systems, and scalable cloud solutions.
+🚀 Passionate **Full Stack Developer** focused on building modern web applications and scalable cloud solutions.
 
 💡 Strong interest in:
 
-* Python Development (Django & Flask)
+* Python Development (Django · Flask · FastAPI)
+* REST API & Backend Engineering
 * Machine Learning & Deep Learning
-* RAG Pipelines & LLM Applications (LangChain & LangGraph)
+* RAG · LangChain · LangGraph
 * Cloud Computing (AWS)
 * DevOps & Automation
-* System Design & Backend Engineering
+* Databases: PostgreSQL · MySQL · MongoDB · Redis
+* System Design
+* Artificial Intelligence
 
 🎯 Currently preparing for opportunities in:
 
 * Full Stack Development
 * Python Backend Development
-* AI / ML Engineering
-* Cloud & DevOps Engineering
+* Cloud Engineering
+* DevOps Engineering
 
 ⚡ Fun Facts
 
 * 🐧 Linux is my daily driver
 * ☁️ Love deploying projects on cloud platforms
-* 🤖 Enjoy building AI-powered applications with LangChain & LangGraph
-* 🗄️ Comfortable with SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Redis)
+* 🤖 Enjoy building AI-powered applications
 * 🚀 Believe in learning by building real projects
 
 ---
@@ -52,43 +54,34 @@
 
 <div align="center">
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,javascript,react,aws,docker,kubernetes,jenkins,linux,bash,git,github,vscode" />
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<br/>
 
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-00BCD4?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,pytorch,tensorflow,sklearn" />
 
 </div>
 
----
+### 🐍 Frameworks & APIs
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)
 
-# 🚀 Featured Projects
+### 🤖 AI / ML Stack
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4A154B?style=for-the-badge&logo=langchain&logoColor=white)
+
+### 🗄️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis%20Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+
 
 ### 🤖 AI Generated Content Detection System
 
@@ -167,13 +160,23 @@
 # 💬 Ask Me About
 
 ```text
-Python           Django           Flask
-Full Stack Dev   ReactJS          REST APIs
-Machine Learning Deep Learning    RAG Pipelines
-LangChain        LangGraph        AWS Cloud
-MongoDB          MySQL            PostgreSQL
-Redis Cache      Docker           Kubernetes
-Jenkins          Linux            Shell Scripting
+Python
+Full Stack Development
+ReactJS
+Django | Flask | FastAPI
+REST API Design
+AWS Cloud
+Docker
+Kubernetes
+Jenkins
+Linux
+DevOps
+Machine Learning
+Deep Learning
+RAG | LangChain | LangGraph
+PostgreSQL | MySQL
+MongoDB | Redis Cache
+Artificial Intelligence
 ```
 
 ---
