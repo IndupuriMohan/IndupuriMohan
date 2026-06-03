@@ -3,6 +3,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=IndupuriMohan&style=for-the-badge&color=blueviolet" />
 </p>
+
 <!-- HEADER -->
 
 <div align="center">
@@ -25,11 +26,10 @@
 
 * Python Development (Django & Flask)
 * Machine Learning & Deep Learning
-* RAG Pipelines & LLM Applications
-* LangChain & LangGraph Workflows
+* RAG Pipelines & LLM Applications (LangChain & LangGraph)
 * Cloud Computing (AWS)
 * DevOps & Automation
-* Backend Engineering
+* System Design & Backend Engineering
 
 🎯 Currently preparing for opportunities in:
 
@@ -43,7 +43,7 @@
 * 🐧 Linux is my daily driver
 * ☁️ Love deploying projects on cloud platforms
 * 🤖 Enjoy building AI-powered applications with LangChain & LangGraph
-* 🗄️ Comfortable with both SQL and NoSQL (MongoDB)
+* 🗄️ Comfortable with SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Redis)
 * 🚀 Believe in learning by building real projects
 
 ---
@@ -70,7 +70,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🗄️ Database
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -168,7 +168,7 @@
 
 ```text
 Python           Django           Flask
-Full Stack Dev   ReactJS          MongoDB
+Full Stack Dev   ReactJS          REST APIs
 Machine Learning Deep Learning    RAG Pipelines
 LangChain        LangGraph        AWS Cloud
 MongoDB          MySQL            PostgreSQL
